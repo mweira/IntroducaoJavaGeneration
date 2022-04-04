@@ -27,7 +27,6 @@ public class ex6 {
 		
 		System.out.println("O valor de D será : " + D);
 		
-		Thread.sleep(10000);
 		
 	}
 }
