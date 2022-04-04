@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ex6 {
 
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) {
 		
 		int x1, y1, x2, y2; 
 		double D;
